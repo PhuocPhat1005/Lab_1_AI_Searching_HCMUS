@@ -30,3 +30,11 @@
   * The last line contains the heuristic weights for each node (for algorithms that use heuristics).
 * Note that the graph can be either directed or undirected.
 * Example input file:
+
+<center>
+    <img src = "https://github.com/user-attachments/assets/d64fd73f-aeac-4b9f-b827-806a3998f23c" width="400" alt="Figure 1: Example input file for a graph"/>
+	<div style="text-align: center;"><i><b>Figure 1.</b>Example input file for a graph.</i></div>
+</center>
+
+### 2.3. Output
+
