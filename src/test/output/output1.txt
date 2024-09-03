@@ -1,0 +1,49 @@
+BFS:
+Path: 0 -> 1 -> 7
+Time: 0.00013000 seconds
+Memory: 3.61 KB
+
+===============
+
+DFS:
+Path: 0 -> 3 -> 5 -> 7
+Time: 0.00006840 seconds
+Memory: 3.19 KB
+
+===============
+
+UCS:
+Path: 0 -> 1 -> 7
+Time: 0.00011860 seconds
+Memory: 2.36 KB
+
+===============
+
+IDS:
+Path: 0 -> 1 -> 7
+Time: 0.00015280 seconds
+Memory: 2.08 KB
+
+===============
+
+GBFS:
+Path: 0 -> 1 -> 7
+Time: 0.00011130 seconds
+Memory: 1.49 KB
+
+===============
+
+A*:
+Path: 0 -> 1 -> 7
+Time: 0.00021600 seconds
+Memory: 2.02 KB
+
+===============
+
+Hill-climbing:
+Path: 0 -> 1 -> 7
+Time: 0.00010480 seconds
+Memory: 1.31 KB
+
+===============
+
